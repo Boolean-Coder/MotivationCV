@@ -10,6 +10,19 @@ Welcome to my GitHub profile! As a junior developer, I am seeking an employer wh
 - **Databases**  : MySQL
 - **DevOps**     : Docker (incoming), GitHub Actions, AWS
 - **Other**      : Git
+## 🔧 Technologies & Tools
+
+| Category     | Technologies & Tools                     |
+|--------------|------------------------------------------|
+| **Languages**| Python, C#                               |
+| **Frontend** | HTML, CSS, JS                            |
+| **Backend**  | Python, C#                               |
+| **Databases**| MySQL                                    |
+| **DevOps**   | Docker (incoming), GitHub Actions, AWS   |
+| **Other**    | Git                                      |
+## Beispiel für farbigen Text und Hintergrund
+
+<p style="color:blue; background-color:yellow;">Dieser Text ist blau und hat einen gelben Hintergrund.</p>
 
 ---
 
