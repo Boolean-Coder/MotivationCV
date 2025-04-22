@@ -23,6 +23,9 @@ Welcome to my GitHub profile! As a junior developer, I am seeking an employer wh
 ## Beispiel für farbigen Text und Hintergrund
 
 <p style="color:blue; background-color:yellow;">Dieser Text ist blau und hat einen gelben Hintergrund.</p>
+<p style="color:red;">Roter Text</p>
+<p style="color:green;">Grüner Text</p>
+<p style="color:blue;">Blauer Text</p>
 
 ---
 
