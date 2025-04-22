@@ -4,7 +4,7 @@ Welcome to my GitHub profile! As a junior developer, I am seeking an employer wh
 ---
 
 ## 🔧 Technologies & Tools
-- **Languages**  : Python, C#
+- **Languages    **  : Python, C#
 - **Frontend**   : HTML, CSS, JS
 - **Backend**    : Python, C#
 - **Databases**  : MySQL
