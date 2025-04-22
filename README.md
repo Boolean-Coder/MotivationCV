@@ -1,5 +1,5 @@
 # Hello there! I'm not a Jedi, but I am a Boolean coder! 👋
-Welcome to my GitHub profile. As a junior developer, I am seeking an employer who can provide me with a training programme for my IHK-certified Umschulung. I am proficient in problem-solving through the use of elegant and efficient code. The ability to engage with challenges across a variety of domains is highly prized, as is the eagerness to learn new technologies.
+Welcome to my GitHub profile! As a junior developer, I am seeking an employer who can offer a training program for my IHK-certified retraining. I excel at solving problems with elegant and efficient code and thrive on tackling challenges across various domains. My eagerness to learn new technologies is a key asset.
 
 ---
 
