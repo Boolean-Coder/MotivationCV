@@ -1,4 +1,4 @@
-# Hello there! I'm not a Jedi, but I am a Boolean coder! 👋
+# Hello there! I'm a Boolean coder! 👋
 Welcome to my GitHub profile! As a junior developer, I am seeking an employer who can offer a training program for my IHK-certified retraining. I excel at solving problems with elegant and efficient code and thrive on tackling challenges across various domains. My eagerness to learn new technologies is a key asset.
 
 ---
