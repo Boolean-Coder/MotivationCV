@@ -37,8 +37,8 @@ Willkommen auf meinem GitHub-Profil! Als Junior-Entwickler suche ich einen Arbei
 ---
 
 ## 📫 Kontakt
-- **GitHub**: [github.com/Boolean-Coder](https://github.com/Boolean-Coder)
-- **LinkedIn**: [linkedin.com/in/Boolean-Coder](#)
+- **[GitHub]([url](https://github.com/Boolean-Coder))**:
+- **[LinkedIn]([url](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))**:
 - **Portfolio**: Portfolio (in Arbeit)
 
 ---
