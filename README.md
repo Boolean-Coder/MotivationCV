@@ -1,53 +1,46 @@
-# Hello there! I'm a Boolean coder! 👋
-Welcome to my GitHub profile! As a junior developer, I am seeking an employer who can offer a training program for my IHK-certified retraining. I excel at solving problems with elegant and efficient code and thrive on tackling challenges across various domains. My eagerness to learn new technologies is a key asset.
+# Hallo! Ich bin Boolean-Coder! 👋
+Willkommen auf meinem GitHub-Profil! Als Junior-Entwickler suche ich einen Arbeitgeber, der ein Ausbildungsprogramm im Rahmen meiner IHK-zertifizierten Umschulung anbietet. Ich löse gerne Probleme mit elegantem und effizientem Code und liebe es, Herausforderungen in verschiedenen Bereichen zu meistern. Meine Begeisterung für neue Technologien ist eine meiner größten Stärken.
 
 ---
 
-## 🔧 Technologies & Tools
-- **Languages**: Python, C#
-- **Frontend**   : HTML, CSS, JS
-- **Backend**    : Python, C#
-- **Databases**  : MySQL
-- **DevOps**     : Docker (incoming), GitHub Actions, AWS
-- **Other**      : Git
-## 🔧 Technologies & Tools
+## 🔧 Technologien & Tools
 
-| Category     | Technologies & Tools                     |
+| Kategorie    | Technologien & Tools                     |
 |--------------|------------------------------------------|
-| **Languages**| Python, C#                               |
+| **Sprachen** | Python, C#                               |
 | **Frontend** | HTML, CSS, JS                            |
 | **Backend**  | Python, C#                               |
-| **Databases**| MySQL                                    |
-| **DevOps**   | Docker (incoming), GitHub Actions, AWS   |
-| **Other**    | Git                                      |
-## Beispiel für farbigen Text und Hintergrund
-
-<p style="color:blue; background-color:yellow;">Dieser Text ist blau und hat einen gelben Hintergrund.</p>
-<p style="color:red;">Roter Text</p>
-<p style="color:green;">Grüner Text</p>
-<p style="color:blue;">Blauer Text</p>
+| **Datenbanken** | MySQL                                 |
+| **DevOps**   | Docker (in Entwicklung), GitHub Actions, AWS |
+| **Sonstiges** | Git                                     |
 
 ---
 
-## 💡 Interests
-- 🎮 Game Development
-- 🧠 AI & Machine Learning
-- 🌐 Open Source Contributions
-- 📱 Mobile App Development
-- 📊 Data Visualization
+## 💡 Interessen
+- 🎮 Spieleentwicklung
+- 🧠 Künstliche Intelligenz & Machine Learning
+- 🌐 Open Source Beiträge
+- 📱 Mobile App Entwicklung
+- 📊 Datenvisualisierung
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Projekte
+- **[MotivationCV](https://github.com/Boolean-Coder/MotivationCV)**: Ein Repository für Lebensläufe mit Fokus auf Motivation.
+- **[Projektname](https://github.com/Boolean-Coder/Projektname)**: Beschreibung des Projekts.
+
+---
+
+## 📈 GitHub-Statistiken
 ![Boolean-Coder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boolean-Coder&show_icons=true&theme=radical)
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Kontakt
 - **GitHub**: [github.com/Boolean-Coder](https://github.com/Boolean-Coder)
 - **LinkedIn**: [linkedin.com/in/Boolean-Coder](#)
-- **Portfolio**: [boolean-coder.dev](#)
+- **Portfolio**: Portfolio (in Arbeit)
 
 ---
 
-⚡ *"I'm a Boolean coder. What that means is up to your imagination."*
+⚡ *"Ich bin ein Boolean-Coder. Was das genau bedeutet, bleibt Ihrer Fantasie überlassen."*
